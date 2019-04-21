@@ -26,7 +26,10 @@ linkedin_username: Oscar-Velazquez
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  After working at a property development company for over seven years, I recently earned my Bachelor of Science in Computer Engineering and am in pursuit of a career path in which I can employ the skills I have acquired, both through education and those that can only be learned by working in a professional environment
+  After working at a property development company for over seven years,
+  I recently earned my Bachelor of Science in Computer Engineering
+  and am in pursuit of a career path in which I can employ the skills I have acquired,
+  both through education and those that can only be learned by working in a professional environment
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
